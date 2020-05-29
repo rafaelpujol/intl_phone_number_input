@@ -46,6 +46,7 @@ class _MyHomePageState extends State<MyHomePage> {
               onInputValidated: (bool value) {
                 print(value);
               },
+              countries: ['DO'],
               ignoreBlank: false,
               autoValidate: false,
               selectorTextStyle: TextStyle(color: Colors.black),

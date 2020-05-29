@@ -494,8 +494,24 @@ class Countries {
       "num_code": "214",
       "alpha_2_code": "DO",
       "alpha_3_code": "DOM",
-      "en_short_name": "Dominican Republic",
-      "nationality": "Dominican",
+      "en_short_name": "República Dominicana",
+      "nationality": "Dominicano",
+      "dial_code": "+1849"
+    },
+    {
+      "num_code": "214",
+      "alpha_2_code": "DO",
+      "alpha_3_code": "DOM",
+      "en_short_name": "República Dominicana",
+      "nationality": "Dominicano",
+      "dial_code": "+1829"
+    },
+    {
+      "num_code": "214",
+      "alpha_2_code": "DO",
+      "alpha_3_code": "DOM",
+      "en_short_name": "República Dominicana",
+      "nationality": "Dominicano",
       "dial_code": "+1849"
     },
     {
